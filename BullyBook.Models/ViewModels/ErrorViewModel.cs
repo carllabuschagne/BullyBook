@@ -1,6 +1,6 @@
 using System;
 
-namespace BullyBook.Models
+namespace BullyBook.Models.ViewModels
 {
 	public class ErrorViewModel
 	{

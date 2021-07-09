@@ -12,5 +12,9 @@ namespace BullyBook.DataAccess.Data
 			: base(options)
 		{
 		}
+
+
+		public DbSet<Models.Category> Categories { get; set; }
+
 	}
 }
